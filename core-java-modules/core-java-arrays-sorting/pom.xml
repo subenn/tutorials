@@ -82,6 +82,6 @@
 
         <jmh.version>1.19</jmh.version>
 
-        <assertj-core.version>3.10.0</assertj-core.version>
+        <assertj-core.version>3.27.7</assertj-core.version>
     </properties>
 </project>

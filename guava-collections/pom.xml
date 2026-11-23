@@ -81,7 +81,7 @@
         <commons-collections4.version>4.1</commons-collections4.version>
 
         <!-- testing -->
-        <assertj.version>3.6.1</assertj.version>
+        <assertj.version>3.27.7</assertj.version>
         <java-hamcrest.version>2.0.0.0</java-hamcrest.version>
         <junit-jupiter.version>5.6.2</junit-jupiter.version>
     </properties>

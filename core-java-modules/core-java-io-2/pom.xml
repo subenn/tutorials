@@ -78,7 +78,7 @@
     </build>
 
     <properties>
-        <assertj.version>3.6.1</assertj.version>
+        <assertj.version>3.27.7</assertj.version>
         <maven-javadoc-plugin.version>3.0.0-M1</maven-javadoc-plugin.version>
         <wiremock.version>2.26.3</wiremock.version>
     </properties>

@@ -31,7 +31,7 @@
 
     <properties>
         <openjdk.jmh.version>1.19</openjdk.jmh.version>
-        <assertj.version>3.11.1</assertj.version>
+        <assertj.version>3.27.7</assertj.version>
     </properties>
 
 </project>

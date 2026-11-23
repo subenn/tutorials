@@ -110,7 +110,7 @@
     </build>
 
     <properties>
-        <assertj.version>3.6.1</assertj.version>
+        <assertj.version>3.27.7</assertj.version>
         <validation-api.version>2.0.0.Final</validation-api.version>
         <commons-lang3.version>3.8.1</commons-lang3.version>
         <guava.version>28.2-jre</guava.version>
