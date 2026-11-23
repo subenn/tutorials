@@ -41,7 +41,7 @@
 
     <properties>
         <intellij.annotations.version>16.0.2</intellij.annotations.version>
-        <assertj-core.version>3.9.1</assertj-core.version>
+        <assertj-core.version>3.27.7</assertj-core.version>
     </properties>
 
 </project>

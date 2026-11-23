@@ -67,7 +67,7 @@
         <commons-collections4.version>4.1</commons-collections4.version>
         <collections-generic.version>4.01</collections-generic.version>
         <!-- testing -->
-        <assertj.version>3.6.1</assertj.version>
+        <assertj.version>3.27.7</assertj.version>
         <avaitility.version>1.7.0</avaitility.version>
     </properties>
 

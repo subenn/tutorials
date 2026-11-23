@@ -47,7 +47,7 @@
 
     <properties>
         <!-- testing -->
-        <assertj.version>3.6.1</assertj.version>
+        <assertj.version>3.27.7</assertj.version>
         <avaitility.version>1.7.0</avaitility.version>
     </properties>
 

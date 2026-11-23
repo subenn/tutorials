@@ -60,7 +60,7 @@
         <cdi-api.version>2.0.SP1</cdi-api.version>
         <weld-se-core.version>3.0.5.Final</weld-se-core.version>
         <aspectjweaver.version>1.9.2</aspectjweaver.version>
-        <assertj-core.version>3.10.0</assertj-core.version>
+        <assertj-core.version>3.27.7</assertj-core.version>
         <spring.version>5.1.2.RELEASE</spring.version>
     </properties>
 

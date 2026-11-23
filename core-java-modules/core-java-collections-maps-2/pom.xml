@@ -72,7 +72,7 @@
         <trove4j.version>3.0.2</trove4j.version>
         <fastutil.version>8.1.0</fastutil.version>
         <colt.version>1.2.0</colt.version>
-        <assertj.version>3.11.1</assertj.version>
+        <assertj.version>3.27.7</assertj.version>
     </properties>
 
 </project>

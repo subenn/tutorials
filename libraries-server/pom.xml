@@ -107,13 +107,13 @@
     </dependencies>
     
     <properties>
-        <assertj.version>3.6.2</assertj.version>
-        <httpclient.version>4.5.3</httpclient.version>
+        <assertj.version>3.27.7</assertj.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <jetty.version>9.4.27.v20200227</jetty.version>
-        <netty.version>4.1.20.Final</netty.version>
-        <tomcat.version>8.5.24</tomcat.version>
+        <netty.version>4.1.42.Final</netty.version>
+        <tomcat.version>9.0.121</tomcat.version>
         <smack.version>4.3.1</smack.version>
-        <eclipse.paho.client.mqttv3.version>1.2.0</eclipse.paho.client.mqttv3.version>
+        <eclipse.paho.client.mqttv3.version>1.2.1</eclipse.paho.client.mqttv3.version>
         <nanohttpd.version>2.3.1</nanohttpd.version>
     </properties>
 

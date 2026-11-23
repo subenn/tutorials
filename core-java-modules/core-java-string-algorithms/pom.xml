@@ -68,7 +68,7 @@
         <commons-lang3.version>3.8.1</commons-lang3.version>
         <guava.version>27.0.1-jre</guava.version>
         <ahocorasick.version>0.4.0</ahocorasick.version>
-        <assertj.version>3.6.1</assertj.version>
+        <assertj.version>3.27.7</assertj.version>
         <emoji-java.version>4.0.0</emoji-java.version>
     </properties>
 

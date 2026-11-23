@@ -51,7 +51,7 @@
 
     <properties>
         <decimal4j.version>1.0.3</decimal4j.version>
-        <assertj.version>3.6.1</assertj.version>
+        <assertj.version>3.27.7</assertj.version>
     </properties>
 
 </project>
